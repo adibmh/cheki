@@ -5,7 +5,7 @@ const descriptions = {
   1: 'Ini pertama kali aku cheki sama kamu, jadi inget dulu kamu bilang gini. "kamu pertamakali ya?", "kenalin ya aku dea"',
   2: 'Ini cheki kedua ku sama kamu,saat itu kamu agak lupa" aku njir, tpi ggp bru 2x xixixi',
   3: "ini waktu kamu udah mulai ngeh sama aku gegara bbrp x cheki all mem, tpi km ngeh nya aku org pendiem yg sama rheza trs njir",
-  4: 'disini kamu udh bener" aku, di event ini juga kamu akhirnya ngefollback aku yey',
+  4: 'disini kamu udh bener" ngeh aku, di event ini juga kamu akhirnya ngefollback aku yey',
   5: "dulu aku sempet bimbang beli cheki ini ga ya, tapi akhirnya aku beli gegara aku suka chara nao",
   6: "waktu itu sejujurnya aku ga pengen absen nonton ini, cuma hari seninnya aku utbk njir akhirnya aku nitip ke rheza",
   7: "seminggu setelah utbk akhirnya aku nonton kohi lagi, dan aku bingung harus pose apa waktu itu",
