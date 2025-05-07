@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Galeri Cheki</title>
+    <link rel="stylesheet" href="stylemain.css" />
+  </head>
+  <body>
+    <div class="container fade-in">
+      <h1>📸 Galeri Cheki</h1>
+
+      <button id="toggleMusic" class="btn small">Biar ga sunyi🎵</button>
+      <audio id="bgMusic" src="audio/lagu.mp3" loop></audio>
+
+      <div class="gallery">
+        <button onclick="prevImage()">&#8592;</button>
+        <div class="image-box">
+          <img id="image" src="album/1.jpg" alt="Cheki 1" />
+          <p id="description">Ini pertama kali aku cheki sama kamu, jadi inget dulu kamu bilang gini. "kamu pertamakali ya?", "kenalin ya aku dea"</p>
+        </div>
+        <button onclick="nextImage()">&#8594;</button>
+      </div>
+      <a href="teks.html" class="btn">Kalau udah selesai pencet yang ini⬅️</a>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
