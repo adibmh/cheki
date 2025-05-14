@@ -1,4 +1,4 @@
-const totalImages = 106; // Ganti sesuai jumlah gambar di folder album/
+const totalImages = 107; // Ganti sesuai jumlah gambar di folder album/
 let currentIndex = 1;
 
 const descriptions = {
