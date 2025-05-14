@@ -74,7 +74,7 @@ const descriptions = {
   70: "bandung njir tpi aku sibuk kuliah",
   71: "ini juga aku niatnya dateng tpi H-1 apa H-2 gitu tiba tiba aku ada kerja kelompok",
   72: "surabayaa aku nitip syam lagi, ini waktu aku masih sering ngirim kamu gambar tupai ga sih",
-  73: "solooo, aku deg degan takut ketinggalan gegara aku msh kuliah smpe jam 5 trus baru berangkat, disini juga aku remake cheki pertama gegara hampir setahun dan kamu pake ishou yg itu",
+  73: "solooo, aku deg degan takut ketinggalan gegara aku msh kuliah smpe jam 5 trus baru berangkat, disini juga aku remake cheki pertama gegara hampir 2 tahun dan kamu pake ishou yg itu",
   74: "femonema, yg ini sih akhirnya di 7sky yg aseli no fek",
   75: "kamu jadi maid, makasih ya udh bawain lagu yg ku req hehe",
   76: "pantai dan yamie panda, cheki nya bagus bagus aku sukak",
@@ -106,8 +106,9 @@ const descriptions = {
   102: "bukber kohi dan melanjutkan tren cheki yg ini xixixi, klo yg pegangan tangan pertama kali disini",
   103: "lanjut cheki kyk gini lagi dan cheki perang bantal di bukber dealova",
   104: "solooo, aku compe gmw tw pokony ak mw compe",
-  105: "cheki karawang tapi kamu freak bgt takut",
-  106: "mandalaaaa, cheki yg bianglala bagus banget jujur sukakk >///<",
+  105: "ternyata ada yg ketinggalan, ini event tgl 25 desember trus ini pertama kali aku pake kaos dealova, disini kohi juga pertamakali bawain christmas lane kan",
+  106: "cheki karawang tapi kamu freak bgt takut",
+  107: "mandalaaaa, cheki yg bianglala bagus banget jujur sukakk >///<",
 };
 
 function updateImage() {
